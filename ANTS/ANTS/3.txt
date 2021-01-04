@@ -1,0 +1,22 @@
+10
+First_work
+30
+Second_work
+1
+Third_work
+10
+Fourth_work
+6
+Fifth_work
+20
+Sixth_work
+40
+Seventh_work
+15
+Eighth_work
+10
+Ninth_work
+25
+Tenth_work
+45
+5 8 6

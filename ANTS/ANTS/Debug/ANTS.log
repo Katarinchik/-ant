@@ -1,0 +1,10 @@
+﻿  ANTS.cpp
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(75,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(110,73): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(117,63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(120,65): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(137,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(215,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(229,32): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\bryzg\source\repos\ANTS\ANTS\ANTS.cpp(233,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ANTS.vcxproj -> C:\Users\bryzg\source\repos\ANTS\Debug\ANTS.exe
