@@ -1,0 +1,32 @@
+10
+Train_the_stones
+20
+Chop_the_logs
+20
+Build_the_catapult
+15
+Build_a_wall
+17
+Dig_a_ditch
+3
+Build_a_bridge
+8
+Run_into_a_pit_of_crocodiles
+2
+Build_a_fort
+10
+Gather_up_crocodiles
+5
+Develop_and_thrive
+25
+1 5 5
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+1 1 0 1 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1 0
+1 1 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 0

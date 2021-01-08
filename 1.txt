@@ -1,0 +1,20 @@
+6
+First_floor
+8
+Second_floor
+8
+Third_floor
+9
+Roof
+3
+Lawn
+2
+Road
+1
+1 4 2.5
+0 0 0 0 0 0
+1 0 0 0 0 0
+0 1 0 0 0 0
+0 0 1 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
